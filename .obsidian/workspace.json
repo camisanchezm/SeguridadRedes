@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/GeneralSkills/10-Nice netcat.md",
+                "file": "picoCTF/GeneralSkills/20-First find.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-Nice netcat"
+              "title": "20-First find"
             }
           },
           {
@@ -210,13 +210,23 @@
   },
   "active": "fcc29e5904aa3311",
   "lastOpenFiles": [
+    "picoCTF/plantilla.md",
+    "picoCTF/GeneralSkills/20-First find.md",
+    "picoCTF/GeneralSkills/19-Big zip.md",
+    "picoCTF/GeneralSkills/18-repetitions.md",
+    "picoCTF/GeneralSkills/17-Magikarp Ground Mission.md",
+    "picoCTF/GeneralSkills/16- Tab, Tab, Attack.md",
+    "picoCTF/GeneralSkills/15-useless.md",
+    "picoCTF/GeneralSkills/14-Static ain't always noise.md",
+    "picoCTF/GeneralSkills/13-Wave a flag.md",
+    "picoCTF/GeneralSkills/12-Strings it.md",
+    "picoCTF/GeneralSkills/11-Based.md",
+    "picoCTF/GeneralSkills/5-First grep.md",
+    "picoCTF/GeneralSkills/6-Obedient cat.md",
+    "picoCTF/GeneralSkills/7-What' s is a net cat?.md",
     "picoCTF/GeneralSkills/9-Glitch Cat.md",
     "picoCTF/GeneralSkills/10-Nice netcat.md",
-    "picoCTF/plantilla.md",
-    "picoCTF/GeneralSkills/7-What' s is a net cat?.md",
     "picoCTF/GeneralSkills/8-Plumbing.md",
-    "picoCTF/GeneralSkills/6-Obedient cat.md",
-    "picoCTF/GeneralSkills/5-First grep.md",
     "picoCTF/GeneralSkills/4-Bases.md",
     "picoCTF/GeneralSkills/3-Warmed up.md",
     "picoCTF/GeneralSkills/2-2Warm.md",
