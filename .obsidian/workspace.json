@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Web1/4-dont-use-client-side.md",
+                "file": "picoCTF/Web2/1-GET aHEAD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4-dont-use-client-side"
+              "title": "1-GET aHEAD"
             }
           }
         ]
@@ -185,13 +185,17 @@
   },
   "active": "951237ec4604f759",
   "lastOpenFiles": [
-    "picoCTF/Web1/3-logon.md",
-    "picoCTF/Web1/4-dont-use-client-side.md",
-    "picoCTF/Web1/5-picobrowser.md",
-    "picoCTF/Web1/6-client side again.md",
-    "picoCTF/plantilla.md",
+    "picoCTF/Web2/2-Cookies.md",
+    "picoCTF/Web2/3-Scavenger Hunt.md",
     "picoCTF/Web1/2-Where are the robots.md",
     "picoCTF/Web1/1-Insp3ct0r.md",
+    "picoCTF/Web1/3-logon.md",
+    "picoCTF/Web1/4-dont-use-client-side.md",
+    "picoCTF/Web1/6-client side again.md",
+    "picoCTF/Web1/5-picobrowser.md",
+    "picoCTF/plantilla.md",
+    "picoCTF/Web2/1-GET aHEAD.md",
+    "picoCTF/Web2",
     "picoCTF/GeneralSkills/31-permissions.md",
     "picoCTF/Web1",
     "picoCTF/GeneralSkills/30-Serpentine.md",
@@ -212,9 +216,6 @@
     "picoCTF/GeneralSkills/10-Nice netcat.md",
     "picoCTF/GeneralSkills/20-First find.md",
     "picoCTF/GeneralSkills/19-Big zip.md",
-    "picoCTF/GeneralSkills/18-repetitions.md",
-    "picoCTF/GeneralSkills/17-Magikarp Ground Mission.md",
-    "picoCTF/GeneralSkills/16- Tab, Tab, Attack.md",
     "Sin nombre",
     "picoCTF/GeneralSkills",
     "picoCTF"
