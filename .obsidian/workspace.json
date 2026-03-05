@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Web3/3-JaWT Scratchpad.md",
+                "file": "picoCTF/Web4/4-Most Cookies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3-JaWT Scratchpad"
+              "title": "4-Most Cookies"
             }
           }
         ]
@@ -185,8 +185,13 @@
   },
   "active": "951237ec4604f759",
   "lastOpenFiles": [
-    "picoCTF/plantilla.md",
+    "picoCTF/Web4/3-Trickster.md",
+    "picoCTF/Web4/2-SOAP.md",
+    "picoCTF/Web4/1-MatchTheRegex.md",
+    "picoCTF/Web4/4-Most Cookies.md",
     "picoCTF/Web3/3-JaWT Scratchpad.md",
+    "picoCTF/plantilla.md",
+    "picoCTF/Web4",
     "picoCTF/Web3/2-More SQLi.md",
     "picoCTF/Web3/1-Irish-Name-Repo 1.md",
     "picoCTF/Web2/2-Cookies.md",
@@ -211,10 +216,6 @@
     "picoCTF/GeneralSkills/24-covertme.py.md",
     "Sin título.base",
     "picoCTF/GeneralSkills/23-Codebook.md",
-    "picoCTF/GeneralSkills/22-runame.py.md",
-    "picoCTF/GeneralSkills/21-Super SSH.md",
-    "README.md",
-    "2026-02-13.md",
     "Sin título 1.base",
     "Bases no relacionales",
     "Sin nombre",
