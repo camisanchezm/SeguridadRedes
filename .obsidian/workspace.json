@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Web4/4-Most Cookies.md",
+                "file": "picoCTF/Tareas/Tarea 2/3-IntroToBurp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4-Most Cookies"
+              "title": "3-IntroToBurp"
             }
           }
         ]
@@ -185,12 +185,27 @@
   },
   "active": "951237ec4604f759",
   "lastOpenFiles": [
+    "picoCTF/Tareas/Tarea 2/8-SQLiLite.md",
+    "picoCTF/plantilla.md",
+    "picoCTF/Tareas/Tarea 2/7-Secrets.md",
+    "picoCTF/Tareas/Tarea 2/6-Robot Sans.md",
+    "picoCTF/Tareas/Tarea 2/5-Power Cookie.md",
+    "picoCTF/Tareas/Tarea 2/10-WebDecode.md",
+    "Bienvenido.md",
+    "picoCTF/Tareas/Tarea 2/9-Unminify.md",
+    "picoCTF/Tareas/Tarea 2/4-Local Authority.md",
+    "picoCTF/Tareas/Tarea 2/3-IntroToBurp.md",
+    "picoCTF/Tareas/Tarea 2/2-InspectHTML.md",
+    "picoCTF/Tareas/Tarea 2/1-Includes.md",
+    "picoCTF/Web4/4-Most Cookies.md",
+    "picoCTF/Tareas/Tarea 2",
+    "Sin nombre",
+    "picoCTF/Tareas",
+    "Sin nombre 1",
     "picoCTF/Web4/3-Trickster.md",
     "picoCTF/Web4/2-SOAP.md",
     "picoCTF/Web4/1-MatchTheRegex.md",
-    "picoCTF/Web4/4-Most Cookies.md",
     "picoCTF/Web3/3-JaWT Scratchpad.md",
-    "picoCTF/plantilla.md",
     "picoCTF/Web4",
     "picoCTF/Web3/2-More SQLi.md",
     "picoCTF/Web3/1-Irish-Name-Repo 1.md",
@@ -202,24 +217,9 @@
     "picoCTF/Web1/1-Insp3ct0r.md",
     "picoCTF/Web1/3-logon.md",
     "picoCTF/Web1/4-dont-use-client-side.md",
-    "picoCTF/Web1/6-client side again.md",
-    "picoCTF/Web1/5-picobrowser.md",
     "picoCTF/Web2",
-    "picoCTF/GeneralSkills/31-permissions.md",
     "picoCTF/Web1",
-    "picoCTF/GeneralSkills/30-Serpentine.md",
-    "picoCTF/GeneralSkills/29-PW Crack 3.md",
-    "picoCTF/GeneralSkills/28-PW Crack 2.md",
-    "picoCTF/GeneralSkills/27-Pw crack1.md",
-    "picoCTF/GeneralSkills/26-fixme2.md",
-    "picoCTF/GeneralSkills/25-fixme1.md",
-    "picoCTF/GeneralSkills/24-covertme.py.md",
     "Sin título.base",
-    "picoCTF/GeneralSkills/23-Codebook.md",
-    "Sin título 1.base",
-    "Bases no relacionales",
-    "Sin nombre",
-    "picoCTF/GeneralSkills",
-    "picoCTF"
+    "Sin título 1.base"
   ]
 }
