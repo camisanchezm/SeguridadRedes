@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forensic2/5-shark on wire 2.md",
+                "file": "picoCTF/Forensic3/5- MacroHard WeakEdge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5-shark on wire 2"
+              "title": "5- MacroHard WeakEdge"
             }
           }
         ]
@@ -199,9 +199,15 @@
   },
   "active": "2b6990de6a532faf",
   "lastOpenFiles": [
-    "picoCTF/Forensic1/5-What Lies Within.md",
+    "picoCTF/Forensic3/4-tunn3l_v1s10n.md",
+    "picoCTF/Forensic3/5- MacroHard WeakEdge.md",
+    "picoCTF/Forensic3/3-Matryoshka doll.md",
+    "picoCTF/Forensic3/2-WebNet1.md",
+    "picoCTF/Forensic3/1-WebNet0.md",
     "picoCTF/plantilla.md",
+    "picoCTF/Forensic3",
     "picoCTF/Forensic2/5-shark on wire 2.md",
+    "picoCTF/Forensic1/5-What Lies Within.md",
     "picoCTF/Forensic2/4-like1000.md",
     "picoCTF/Forensic2/3-c0rrupt.md",
     "picoCTF/Forensic2/2-WhitePages.md",
@@ -225,16 +231,10 @@
     "picoCTF/Tareas/Tarea 2/6-Robot Sans.md",
     "picoCTF/Tareas/Tarea 2/5-Power Cookie.md",
     "picoCTF/Tareas/Tarea 2/10-WebDecode.md",
-    "picoCTF/Tareas/Tarea 2/9-Unminify.md",
-    "picoCTF/Tareas/Tarea 2/2-InspectHTML.md",
-    "picoCTF/Tareas/Tarea 2/1-Includes.md",
-    "picoCTF/Web4/4-Most Cookies.md",
     "picoCTF/Tareas/Tarea 2",
     "Sin nombre",
     "picoCTF/Tareas",
     "Sin nombre 1",
-    "picoCTF/Web4/3-Trickster.md",
-    "picoCTF/Web4",
-    "picoCTF/Web3"
+    "picoCTF/Web4"
   ]
 }
