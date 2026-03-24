@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/ConcursoCTF/Timeline 0.md",
+                "file": "picoCTF/Forensic4/6-Operation Oni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Timeline 0"
+              "title": "6-Operation Oni"
             }
           }
         ]
@@ -199,8 +199,16 @@
   },
   "active": "2b6990de6a532faf",
   "lastOpenFiles": [
-    "picoCTF/ConcursoCTF/SUDO MAKE ME A SANDWICH.md",
+    "picoCTF/plantilla.md",
+    "picoCTF/Forensic4/6-Operation Oni.md",
+    "picoCTF/Forensic4/5-Operation Orchid.md",
+    "picoCTF/Forensic4/4-Sleuthkit Apprentice.md",
+    "picoCTF/Forensic4/3-Sleuthkit Intro.md",
+    "picoCTF/Forensic4/2-Disk, disk, sleuth!.md",
+    "picoCTF/Forensic4/1-Milkslap.md",
     "picoCTF/ConcursoCTF/Timeline 0.md",
+    "picoCTF/Forensic4",
+    "picoCTF/ConcursoCTF/SUDO MAKE ME A SANDWICH.md",
     "picoCTF/ConcursoCTF/Printer Shares.md",
     "picoCTF/ConcursoCTF/ping-cmd.md",
     "picoCTF/ConcursoCTF/Piece by piece.md",
@@ -220,21 +228,13 @@
     "picoCTF/Forensic3/3-Matryoshka doll.md",
     "picoCTF/Forensic3/2-WebNet1.md",
     "picoCTF/Forensic3/1-WebNet0.md",
-    "picoCTF/plantilla.md",
     "picoCTF/Forensic3",
     "picoCTF/Forensic2/5-shark on wire 2.md",
     "picoCTF/Forensic1/5-What Lies Within.md",
-    "picoCTF/Forensic2/4-like1000.md",
-    "picoCTF/Forensic2/3-c0rrupt.md",
-    "picoCTF/Forensic2/2-WhitePages.md",
-    "picoCTF/Forensic2/1-m00nwalk.md",
-    "Sin título.md",
     "picoCTF/Forensic2",
-    "picoCTF/CONCURSO.md",
     "picoCTF/Forensic1",
     "picoCTF/Tareas/Tarea 2",
     "Sin nombre",
-    "picoCTF/Tareas",
-    "Sin nombre 1"
+    "picoCTF/Tareas"
   ]
 }
