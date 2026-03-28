@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/ExamenWeb1/5- findme.md",
+                "file": "picoCTF/ExamenWeb1/6- Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5- findme"
+              "title": "6- Java"
             }
           }
         ]
@@ -199,8 +199,11 @@
   },
   "active": "2b6990de6a532faf",
   "lastOpenFiles": [
-    "picoCTF/plantilla.md",
     "picoCTF/ExamenWeb1/5- findme.md",
+    "picoCTF/ExamenWeb1/8-SSTI2.md",
+    "picoCTF/plantilla.md",
+    "picoCTF/ExamenWeb1/6- Java.md",
+    "picoCTF/ExamenWeb1/7-SQL Direct.md",
     "picoCTF/ExamenWeb1/4- SSTI1.md",
     "picoCTF/ExamenWeb1/3- head-dump.md",
     "picoCTF/ExamenWeb1/2- Cookie Monster Secret Recipe.md",
@@ -225,10 +228,7 @@
     "picoCTF/Forensic4/3-Sleuthkit Intro.md",
     "picoCTF/Forensic4/2-Disk, disk, sleuth!.md",
     "picoCTF/Forensic4/1-Milkslap.md",
-    "picoCTF/ConcursoCTF/Timeline 0.md",
     "picoCTF/Forensic4",
-    "picoCTF/ConcursoCTF/SUDO MAKE ME A SANDWICH.md",
-    "picoCTF/ConcursoCTF/Printer Shares.md",
     "picoCTF/ConcursoCTF",
     "Sin título.base",
     "Sin título 1.base",
