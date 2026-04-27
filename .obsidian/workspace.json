@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Crypto4/5-flags.md",
+                "file": "picoCTF/Tareas/Tarea 4/9-substitution2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5-flags"
+              "title": "9-substitution2"
             }
           }
         ]
@@ -199,13 +199,24 @@
   },
   "active": "3344df2573cb74b1",
   "lastOpenFiles": [
+    "picoCTF/plantilla.md",
+    "picoCTF/Tareas/Tarea 4/9-substitution2.md",
+    "picoCTF/Tareas/Tarea 4/8-substitution1.md",
+    "picoCTF/Tareas/Tarea 4/7-substitution0.md",
+    "picoCTF/Tareas/Tarea 4/6-rail-fence.md",
+    "picoCTF/Tareas/Tarea 4/5-morse-code.md",
+    "picoCTF/Tareas/Tarea 4/4-hashcrack.md",
+    "picoCTF/Tareas/Tarea 4/3-EVEN RSA CAN BE BROKEN???.md",
+    "picoCTF/Tareas/Tarea 4/2-credstuff.md",
+    "picoCTF/Tareas/Tarea 4/10-Vigenere.md",
+    "picoCTF/Tareas/Tarea 4/1- Crack the power.md",
+    "picoCTF/Crypto4/5-flags.md",
+    "picoCTF/Tareas/Tarea 4",
     "picoCTF/Crypto4/1-Pixelated.md",
     "picoCTF/Crypto4/2-basic-mod1.md",
     "picoCTF/Crypto4/3-HideToSee.md",
     "picoCTF/Crypto4/4-ReadMyCert.md",
-    "picoCTF/Crypto4/5-flags.md",
     "picoCTF/Forensic2/2-WhitePages.md",
-    "picoCTF/plantilla.md",
     "picoCTF/Crypto3/1-Mini RSA.md",
     "picoCTF/Crypto4",
     "picoCTF/Sin título.md",
@@ -218,23 +229,12 @@
     "picoCTF/Crypto2",
     "picoCTF/Crypto1/7-waves over lambda.md",
     "picoCTF/Crypto1/5- la cifra de.md",
-    "picoCTF/Crypto1/6- Tapping.md",
-    "picoCTF/Crypto1/4-Easy 1.md",
-    "picoCTF/Crypto1/3- caesar.md",
-    "picoCTF/Crypto1/2- 13.md",
-    "picoCTF/Crypto1/1-The numbers.md",
     "picoCTF/Crypto1",
-    "picoCTF/Tareas/Tarea 3/9- Ph4nt0m 1ntrud3r.md",
-    "picoCTF/Tareas/Tarea 3/8- RED.md",
-    "picoCTF/Tareas/Tarea 3/2- St3g0.md",
-    "picoCTF/Tareas/Tarea 3/4- hideme.md",
-    "picoCTF/Tareas/Tarea 3/7- Secret of the Polyglot.md",
     "picoCTF/Tareas/Tarea 3",
     "picoCTF/ExamenWeb1",
     "picoCTF/ExamenGeneralSkills1",
     "Sin nombre",
     "picoCTF/Forensic4",
-    "picoCTF/ConcursoCTF",
     "Sin título.canvas"
   ]
 }
