@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Reversing2/1-Safe Opener 2.md",
+                "file": "picoCTF/Tareas/Tarea 1/10-ASCII Numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-Safe Opener 2"
+              "title": "10-ASCII Numbers"
             }
           }
         ]
@@ -199,10 +199,21 @@
   },
   "active": "3344df2573cb74b1",
   "lastOpenFiles": [
+    "picoCTF/Tareas/Tarea 1/9-binhexa.md",
+    "picoCTF/Tareas/Tarea 1/10-ASCII Numbers.md",
+    "picoCTF/Tareas/Tarea 1/8- Binary search.md",
+    "picoCTF/Tareas/Tarea 1/7-Collaborative Development.md",
+    "picoCTF/Tareas/Tarea 1/6- Blame Game.md",
+    "picoCTF/Tareas/Tarea 1/5- time machine.md",
+    "picoCTF/Tareas/Tarea 1/4- Commitment Issues.md",
+    "picoCTF/Tareas/Tarea 1/3-special.md",
+    "picoCTF/Tareas/Tarea 1/2-chrono.md",
+    "picoCTF/Tareas/Tarea 1/1-Permissions.md",
+    "picoCTF/Reversing2/1-Safe Opener 2.md",
+    "picoCTF/Tareas/Tarea 1",
     "picoCTF/Reversing2/4-Picker II.md",
     "picoCTF/Reversing2/5-Picker III.md",
     "picoCTF/Reversing2/6-Picker IV.md",
-    "picoCTF/Reversing2/1-Safe Opener 2.md",
     "picoCTF/Reversing2/3- Picker I.md",
     "picoCTF/Reversing2/2-timer.md",
     "picoCTF/plantilla.md",
@@ -217,24 +228,13 @@
     "picoCTF/Tareas/Tarea 4/8-substitution1.md",
     "picoCTF/Tareas/Tarea 4/7-substitution0.md",
     "picoCTF/Tareas/Tarea 4/6-rail-fence.md",
-    "picoCTF/Tareas/Tarea 4/5-morse-code.md",
-    "picoCTF/Tareas/Tarea 4/4-hashcrack.md",
-    "picoCTF/Tareas/Tarea 4/3-EVEN RSA CAN BE BROKEN???.md",
-    "picoCTF/Tareas/Tarea 4/2-credstuff.md",
-    "picoCTF/Tareas/Tarea 4/10-Vigenere.md",
-    "picoCTF/Tareas/Tarea 4/1- Crack the power.md",
-    "picoCTF/Crypto4/5-flags.md",
     "picoCTF/Tareas/Tarea 4",
-    "picoCTF/Crypto4/1-Pixelated.md",
-    "picoCTF/Crypto4/2-basic-mod1.md",
-    "picoCTF/Crypto4/3-HideToSee.md",
     "picoCTF/Crypto4",
     "picoCTF/Crypto3",
     "picoCTF/Crypto2",
     "picoCTF/Crypto1",
     "picoCTF/Tareas/Tarea 3",
     "picoCTF/ExamenWeb1",
-    "picoCTF/ExamenGeneralSkills1",
     "Sin título.canvas"
   ]
 }
